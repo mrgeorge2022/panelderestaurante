@@ -9,7 +9,7 @@ const accesos = [
   },
   {
     id: "acceso-inventario",
-    url: "https://app.restaurante.com/inventario",
+    url: "https://docs.google.com/spreadsheets/d/1-4pX9N__xXGmRnBFNacDUUwNYpGmMxYXEW2V_PHKNV8/edit?usp=drivesdk",
     icon: "fas fa-boxes",
     label: "Inventario"
   },

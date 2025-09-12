@@ -15,7 +15,7 @@ const accesos = [
   },
   {
     id: "acceso-caja",
-    url: "https://app.restaurante.com/caja",
+    url: "https://docs.google.com/spreadsheets/d/12e5oorZ0CxUQerdpL53BPHRGP_qASkJ4ISNxL6RPKDI/edit#gid=1282338494",
     icon: "fas fa-cash-register",
     label: "Cerrar Caja"
   },
@@ -32,3 +32,4 @@ const accesos = [
     label: "Panel de Administración"
   }
 ];
+

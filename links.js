@@ -21,7 +21,7 @@ const accesos = [
   },
   {
     id: "acceso-web",
-    url: "https://restaurante.com",
+    url: "https://linktr.ee/MR.GE0RGE",
     icon: "fas fa-globe",
     label: "Sitio Web"
   },
@@ -32,4 +32,5 @@ const accesos = [
     label: "Panel de Administración"
   }
 ];
+
 

@@ -4,10 +4,10 @@ const rolesAccesos = {
   cajero: ["acceso-caja"],
   mesero: ["acceso-web"],
   admin: [
-    "acceso-cocina",
+    "acceso-admin",
     "acceso-inventario",
+    "acceso-cocina",
     "acceso-caja",
     "acceso-web",
-    "acceso-admin"
   ]
 };

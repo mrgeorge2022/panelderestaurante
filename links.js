@@ -27,10 +27,11 @@ const accesos = [
   },
   {
     id: "acceso-admin",
-    url: "https://app.restaurante.com/admin",
+    url: "https://drive.google.com/drive/folders/1LMOCFFWs0RKv9RcV0FkK0z9GRMoMhZKx?usp=drive_link",
     icon: "fas fa-tools",
     label: "Panel de Administración"
   }
 ];
+
 
 
